@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @suoqianli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-suoqianli/suoqianli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in vue
+- 🌱 I’m currently learning vue3+ts
+- 💞️ I’m looking to collaborate on skill
+- 📫 How to reach me 17631858386@163.com
+- 👋 技术栈：html5、css3、js、vue、element
