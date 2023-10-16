@@ -16,6 +16,9 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 
+![Scichart](https://img.shields.io/badge/-Scichart-339933?style=flat-square&logo=Scichart&logoColor=purple)
+![Echarts](https://img.shields.io/badge/-Echarts-339933?style=flat-square&logo=Echarts&logoColor=purple)
+
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Rollup](https://img.shields.io/badge/-Rollup-F05032?style=flat-square&logo=rollup.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-%232C3A42?style=flat-square&logo=Vite)
