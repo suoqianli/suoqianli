@@ -18,7 +18,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 ![Scichart](https://img.shields.io/badge/-Scichart-339933?style=flat-square&logo=Scichart&logoColor=purple)
-![Echarts](https://img.shields.io/badge/-Echarts-339933?style=flat-square&logo=Echarts&logoColor=purple)
+![Echarts](https://img.shields.io/badge/-Echarts-%23F7DF1C?style=flat-square&logo=Echarts&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Rollup](https://img.shields.io/badge/-Rollup-F05032?style=flat-square&logo=rollup.js&logoColor=white)
