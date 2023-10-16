@@ -5,7 +5,7 @@
   <li>👨🏽‍💻 I like a word for you: There is no view near;</li>
   <li>🤔 My interests are vue, webpack, scichart, websocket etc..</li>
 </ul>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=18845778092&layout=compact&langs_count=8&theme=algolia"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suoqianli&layout=compact&langs_count=8&theme=algolia"/>
 
 #  📚 技术栈
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
