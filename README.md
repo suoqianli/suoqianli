@@ -2,8 +2,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/suoqianli/count.svg" alt="xiaosuo :: Visitor's Count" /></p>
 <ul>
   <li>🚀 Hello everyone, I am a front-end small cable, I like programming, also like to learn; </li>
-  <li>👨🏽‍💻 I like a word for you: life is a wilderness rather than a track;</li>
-  <li>🤔 My interests are vue, Waterfall, websocket etc..</li>
+  <li>👨🏽‍💻 I like a word for you: There is no view near;</li>
+  <li>🤔 My interests are vue, webpack, scichart, websocket etc..</li>
 </ul>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=18845778092&layout=compact&langs_count=8&theme=algolia"/>
 
