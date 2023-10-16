@@ -1,7 +1,7 @@
 <h4 align="center">访客数 :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/suoqianli/count.svg" alt="xiaosuo :: Visitor's Count" /></p>
 <ul>
-  <li>🚀 Hello everyone, I am a front-end small cable, I like programming, also like to learn; </li>
+  <li>📫 Hello everyone, I am a front-end small cable, I like programming, also like to learn; </li>
   <li>👨🏽‍💻 I like a word for you: There is no view near;</li>
   <li>🤔 My interests are vue, webpack, scichart, websocket etc..</li>
 </ul>
