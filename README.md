@@ -1,6 +1,7 @@
 <h4 align="center">访客数 :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/suoqianli/count.svg" alt="xiaosuo :: Visitor's Count" /></p>
 
+
 ### Hi there 👋
 
 ⏳ Year progress { ███████████████████████▁▁▁▁▁▁▁ } 79.11 %
@@ -9,7 +10,8 @@
 
 ⏰ Updated on Mon, 16 Oct 2023 18:14:14 GMT
 
-![Progress Bar CI](https://github.com/suoqianli/suoqianli/workflows/Progress%20Bar%20CI/badge.svg)
+![Progress Bar CI](https://img.shields.io/badge/Progress%20Bar%20CI-passing-green)
+
 
 <ul>
   <li>📫 Hello everyone, I am a front-end small cable, I like programming, also like to learn; </li>
