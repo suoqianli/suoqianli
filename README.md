@@ -4,14 +4,6 @@
 
 ### Hi there 👋
 
-⏳ Year progress { ███████████████████████▁▁▁▁▁▁▁ } 79.11 %
-
----
-
-⏰ Updated on Mon, 16 Oct 2023 18:14:14 GMT
-
-![Progress Bar CI](https://img.shields.io/badge/Progress%20Bar%20CI-passing-green)
-
 
 <ul>
   <li>📫 Hello everyone, I am a front-end small cable, I like programming, also like to learn; </li>
